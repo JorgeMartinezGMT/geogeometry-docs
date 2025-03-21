@@ -4,90 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76a35ef8-696b-4b3f-8e17-9a39c987b0ef" name="Changes" comment="First commit corrected 2">
-      <change afterPath="$PROJECT_DIR$/.readthedocs.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.buildinfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/geometry-docs.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/examples/Example_01.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/examples/index.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/geometry_types/index.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/index.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/reference/api.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/reference/index.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/reference/modules.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/releases/index.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/tutorials/advanced_topics.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/tutorials/first_steps.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/tutorials/index.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/tutorials/reader_writer.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/user_guide/concepts.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/user_guide/customization.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/user_guide/getting_started.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sources/user_guide/index.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sphinx_design_static/design-tabs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sphinx_design_static/sphinx-design.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/basic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/design-tabs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/doctools.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/documentation_options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/file.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/geogeometry_logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/geogeometry_logo_dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/gmt_logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/gmt_logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/language_data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/minus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/pygments.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/scripts/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/scripts/bootstrap.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/scripts/bootstrap.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/scripts/fontawesome.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/scripts/fontawesome.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/scripts/fontawesome.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/scripts/pydata-sphinx-theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/scripts/pydata-sphinx-theme.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/searchtools.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/sphinx-design.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/sphinx_highlight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/styles/pydata-sphinx-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/styles/pydata-sphinx-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/styles/theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_static/webpack-macros.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/Example_01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/genindex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geometry_types/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/objects.inv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reference/api.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reference/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reference/modules.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/releases/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/searchindex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorials/advanced_topics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorials/first_steps.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorials/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorials/reader_writer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_guide/concepts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_guide/customization.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_guide/getting_started.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_guide/index.html" beforeDir="false" />
+    <list default="true" id="76a35ef8-696b-4b3f-8e17-9a39c987b0ef" name="Changes" comment="Move full Sphinx docs for Read the Docs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,13 +79,22 @@
       <option name="project" value="LOCAL" />
       <updated>1742590140676</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Move full Sphinx docs for Read the Docs">
+      <option name="closed" value="true" />
+      <created>1742595069563</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742595069563</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="First commit corrected" />
     <MESSAGE value="First commit corrected 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit corrected 2" />
+    <MESSAGE value="Move full Sphinx docs for Read the Docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Move full Sphinx docs for Read the Docs" />
   </component>
 </project>

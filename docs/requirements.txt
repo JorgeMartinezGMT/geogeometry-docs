@@ -7,6 +7,3 @@ pydata-sphinx-theme
 # Sphinx extensions used in conf.py
 sphinx-autodoc-typehints
 sphinx-design
-sphinx-ext-viewcode
-sphinx-ext-napoleon
-sphinx-ext-autodoc
