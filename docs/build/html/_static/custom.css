@@ -1,0 +1,4 @@
+.logo img {
+    margin-top: 10px;  /* Adjust this value as needed */
+    max-height: 100px;  /* Ensure it scales properly */
+}

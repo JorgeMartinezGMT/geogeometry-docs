@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76a35ef8-696b-4b3f-8e17-9a39c987b0ef" name="Changes" comment="First commit corrected 2">
+      <change afterPath="$PROJECT_DIR$/.readthedocs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.buildinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/geometry-docs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/examples/Example_01.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/examples/index.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/geometry_types/index.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/index.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/reference/api.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/reference/index.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/reference/modules.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/releases/index.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/tutorials/advanced_topics.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/tutorials/first_steps.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/tutorials/index.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/tutorials/reader_writer.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/user_guide/concepts.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/user_guide/customization.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/user_guide/getting_started.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sources/user_guide/index.rst.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sphinx_design_static/design-tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sphinx_design_static/sphinx-design.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/basic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/design-tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/doctools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/documentation_options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/file.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/geogeometry_logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/geogeometry_logo_dark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/gmt_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/gmt_logo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/language_data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/minus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/plus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/pygments.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/scripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/scripts/bootstrap.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/scripts/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/scripts/fontawesome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/scripts/fontawesome.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/scripts/fontawesome.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/scripts/pydata-sphinx-theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/scripts/pydata-sphinx-theme.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/searchtools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/sphinx-design.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/sphinx_highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/styles/pydata-sphinx-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/styles/pydata-sphinx-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/styles/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/vendor/fontawesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_static/webpack-macros.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/Example_01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/genindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/geometry_types/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects.inv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference/api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reference/modules.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/releases/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/searchindex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/advanced_topics.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/first_steps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/reader_writer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/concepts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/customization.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/getting_started.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_guide/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2udrt2TLyeMH7qkA1CKU16axsdQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/jorge/OneDrive/Desktop/GMT Framework/001. GeoGeometry/geogeometry-docs/geometry-docs"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jorge\OneDrive\Desktop\GMT Framework\001. GeoGeometry\geogeometry-docs\geometry-docs" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76a35ef8-696b-4b3f-8e17-9a39c987b0ef" name="Changes" comment="" />
+      <created>1742589503443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742589503443</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1742589551870</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742589551870</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit corrected">
+      <option name="closed" value="true" />
+      <created>1742589957322</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742589957322</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First commit corrected 2">
+      <option name="closed" value="true" />
+      <created>1742590140676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742590140676</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="First commit corrected" />
+    <MESSAGE value="First commit corrected 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit corrected 2" />
+  </component>
+</project>

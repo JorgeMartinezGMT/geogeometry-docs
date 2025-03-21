@@ -1,0 +1,12 @@
+# Core Sphinx
+sphinx>=5.0
+
+# Theme (pydata-sphinx-theme)
+pydata-sphinx-theme
+
+# Sphinx extensions used in conf.py
+sphinx-autodoc-typehints
+sphinx-design
+sphinx-ext-viewcode
+sphinx-ext-napoleon
+sphinx-ext-autodoc
